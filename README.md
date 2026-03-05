@@ -1,0 +1,2 @@
+# pdYyChVCpQ
+本项目是一款基于Django框架的Python B站弹幕爬取数据可视化分析平台。平台利用Python、Django、Pyecharts和sqlite技术，实现对视频及弹幕信息的深入分析。功能涵盖视频和弹幕信息统计、发送量分析、词云图展示、用户弹幕量分析以及情感占比分析等。
